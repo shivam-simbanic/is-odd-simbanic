@@ -1,5 +1,5 @@
 function isValidSimbanicString(string) {
-  return string === "simbanic";
+  return string === "Simbanic";
 }
 
 module.exports = isValidSimbanicString;
